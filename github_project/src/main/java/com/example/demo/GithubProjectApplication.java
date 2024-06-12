@@ -12,6 +12,7 @@ public class GithubProjectApplication {
 		SpringApplication.run(GithubProjectApplication.class, args);
 		
 		System.out.println("깃헙 연결 테스트");
+		System.out.println("sub1 브랜치 조원 추가 테스트");
 	}
 
 }
